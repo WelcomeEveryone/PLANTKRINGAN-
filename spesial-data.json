@@ -1,0 +1,17 @@
+{    "specialItems": [
+        {
+            "title": "Special Nasi Goreng",
+            "category": "Makanan",
+            "views": "1,200",
+            "rating": "4.9",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8Z49AOYxXIzXVYCgiWmLsr9PzZY_1O3ydPOlf45u-ATZOwAMh82102v5&s=10"
+        },
+        {
+            "title": "Special Es Teh",
+            "category": "Minuman",
+            "views": "2,800",
+            "rating": "5.0",
+            "imageUrl": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/7/25/22e76e55-b27d-4f98-8544-293a6fdcd655.jpg"
+        }
+    ]
+    }

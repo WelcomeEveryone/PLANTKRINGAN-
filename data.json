@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "title": "Nasi Goreng",
+            "category": "Makanan",
+            "views": "1,000",
+            "rating": "4.5",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHHxey2owP-fZXW2Cmv5JRqN0mVhqbpi3nekQP1XmFI5SJs3Z2mllZALHS&s=10"
+        },
+        {
+            "title": "Es Teh",
+            "category": "Minuman",
+            "views": "2,500",
+            "rating": "4.8",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPw8q3UV9jP9AyzNM-uzCRgiOrZHnTHlaU_cpbIMaLiDQby9ZAfDw_Y-M&s=10"
+        },
+        {
+            "title": "Soto Ayam",
+            "category": "Makanan",
+            "views": "1,500",
+            "rating": "4.7",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54rMgQn1q6ImRO4kkyuXaHFz0AeUtAROfnUKGhs9wQgz4emUpIkAIB-Mf&s=10"
+        },
+        {
+            "title": "Jus Jeruk",
+            "category": "Minuman",
+            "views": "2,000",
+            "rating": "4.9",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-zxdFDwdYlaRsXzPzaO1WXaQT2JCPMaiDiTS0IFozl4qPrsf049nFes&s=10"
+        }
+    ]
+}
