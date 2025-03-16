@@ -1,7 +1,7 @@
 // Fungsi untuk mengambil data item dan menampilkannya di DOM
 async function fetchItems() {
     try {
-        const response = await fetch('https://raw.githubusercontent.com/WelcomeEveryone/PLANTKRINGAN-/refs/heads/main/data.json?token=GHSAT0AAAAAADAKVZWPDNHEY7BU7QXV2CJGZ6VX6HA'); // Mengambil data dari file data.json
+        const response = await fetch('https://raw.githubusercontent.com/WelcomeEveryone/PLANTKRINGAN-/refs/heads/main/data.json'); // Mengambil data dari file data.json
         const data = await response.json();
         const items = data.items;
 
@@ -18,7 +18,7 @@ async function fetchItems() {
 // Fungsi untuk mengambil data item carousel dan menampilkannya di carousel
 async function fetchCarouselItems() {
     try {
-        const response = await fetch('https://raw.githubusercontent.com/WelcomeEveryone/PLANTKRINGAN-/refs/heads/main/spesial-data.json?token=GHSAT0AAAAAADAKVZWPKVZPQC7RH6XV2DUMZ6VX7ZQ'); // Mengambil data dari file data.json
+        const response = await fetch('https://raw.githubusercontent.com/WelcomeEveryone/PLANTKRINGAN-/refs/heads/main/spesial-data.json'); // Mengambil data dari file data.json
         const data = await response.json();
         const specialItems = data.specialItems;
         const items = specialItems.length > 0 ? specialItems : data.items;
