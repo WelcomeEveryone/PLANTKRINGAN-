@@ -154,3 +154,4 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchItems();
     fetchCarouselItems();
 });
+consol.log("halo") 
